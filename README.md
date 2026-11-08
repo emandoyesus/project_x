@@ -21,4 +21,4 @@ Check 320px, 390px, 768px and desktop widths for overflow. Search and combine fi
 
 ## Service navigation
 
-Home combines all listings. Delivery, Exchange, Games, and Style each provide a dedicated board and preselected posting category. Mobile uses a fixed service navigation bar; desktop uses a horizontal bar. Service URL fragments support opening a specific board directly. Existing saved listings retain their categories.
+Home combines all listings. Delivery, Exchange, Games, and Style each provide a dedicated board and preselected posting category. Mobile uses a fixed service navigation bar; desktop uses a horizontal bar. Service URL fragments support opening a specific board directly. Existing saved listings retain their categoriees.
