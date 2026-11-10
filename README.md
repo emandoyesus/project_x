@@ -1,4 +1,4 @@
-# CampusLink
+# tradeX
 
 Mobile-first React campus board prototype.
 
